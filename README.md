@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as an undergraduate at NSBM Green University 
 
-- 🌱 I’m currently learning **Machine learning and UI UX**
+- 🌱 I’m currently learning **Machine learning and UI UX Design**
 
 - 📫 How to reach me **waranga95hondamuni@gmail.com**
  
@@ -57,7 +57,7 @@
     </a>
 </p>
 
-<a href="https://github.com/mandakini76/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mandakini76&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mandakini76/github-readme-activity-graph"><img alt="Mandakini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mandakini76&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
